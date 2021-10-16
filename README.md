@@ -1,22 +1,20 @@
-# Bruter
-• The Best PenTesting Ever Made!
-• Low Cpu Usage 
-• Stable/Fast 
-• Support Any Proxie Type Even Auth Proxies
-• UnRaped API
-• Optimized Code 
+# Bruter VIP
+
+<img src="https://media.discordapp.net/attachments/881036123760128010/898833429184016384/Screenshot_2021-10-15-11-27-26-99.jpg" width="100%"></img>
 
 # Credits
-(People Who Help Me During This Project)
 
-• Shadow (Security)
+**Fluppy**
 
-• Ruri (Functions)
+**Sector**
 
-• Anime 
+**Phsoft.dev** 
 
-• PhSoft
+**Anime**
 
-• Fluppy
+**Shadow**
 
-https://gyazo.com/85a62cbcefe0208af3e6666e7acd2cf9
+**FreeLoad**
+
+
+## It's Free But There's No Support!
